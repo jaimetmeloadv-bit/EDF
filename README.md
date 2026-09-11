@@ -9,6 +9,9 @@ If you will, run the 'EDF-notebook.ipynb' via nbviewer by clicking here: [notebo
 
 For detailed coding and data outputs, go: [EDF-notebook-pipeline](https://github.com/jaimetmeloadv-bit/EDF---Entropic-Dimensional-Framework-/tree/notebook-pipeline)
 
+For EDF animated EDF summary, go [EDF - Worldline](https://github.com/jaimetmeloadv-bit/EDF/blob/Docs-animations/edf_soliton_braid_writhe.gif)
+
+and here 
 
 Theoretical Foundations. The EDF framework posits that:
 
