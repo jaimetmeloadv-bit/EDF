@@ -11,7 +11,7 @@ For detailed coding and data outputs, go: [EDF-notebook-pipeline](https://github
 
 For EDF animated EDF summary, go [EDF - Worldline](https://github.com/jaimetmeloadv-bit/EDF/blob/Docs-animations/edf_soliton_braid_writhe.gif)
 
-and here 
+and here [EDF Global Entropy x Local Entropy](https://github.com/jaimetmeloadv-bit/EDF/blob/Docs-animations/edf_animation.gif)
 
 Theoretical Foundations. The EDF framework posits that:
 
