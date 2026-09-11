@@ -9,9 +9,12 @@ If you will, run the 'EDF-notebook.ipynb' via nbviewer by clicking here: [notebo
 
 For detailed coding and data outputs, go: [EDF-notebook-pipeline](https://github.com/jaimetmeloadv-bit/EDF---Entropic-Dimensional-Framework-/tree/notebook-pipeline)
 
-For EDF animated EDF summary, go [EDF - Worldline](https://github.com/jaimetmeloadv-bit/EDF/blob/Docs-animations/edf_soliton_braid_writhe.gif)
+For EDF animated EDF summary, go <img width="528" height="330" alt="edf_soliton_braid_writhe_final" src="[https://github.com/user-attachments/assets/53fd23ed-7850-46cf-a3c0-eaf6fc4c115a](https://github.com/jaimetmeloadv-bit/EDF/blob/Docs-animations/edf_soliton_braid_writhe_final.png)" />
+[EDF - Worldline](https://github.com/jaimetmeloadv-bit/EDF/blob/Docs-animations/edf_soliton_braid_writhe.gif)
 
 and here [EDF Global Entropy x Local Entropy](https://github.com/jaimetmeloadv-bit/EDF/blob/Docs-animations/edf_animation.gif)
+
+------------------------
 
 Theoretical Foundations. The EDF framework posits that:
 
