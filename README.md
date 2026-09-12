@@ -13,7 +13,7 @@ Here is EDF Soliton - braid - writhe conceptual schematic
 
 
 
-<img width="520" height="420" alt="edf_soliton_braid_writhe_final.png" src="https://github.com/jaimetmeloadv-bit/EDF/blob/49d1a22f48dd2ed25ebcdf49e4449111773b348b/edf_soliton_braid_writhe_final.png" />
+<img width="520" height="420" src="https://github.com/jaimetmeloadv-bit/EDF/blob/49d1a22f48dd2ed25ebcdf49e4449111773b348b/edf_soliton_braid_writhe_final.png" />
 
 
 
