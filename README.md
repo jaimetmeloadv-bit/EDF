@@ -16,7 +16,10 @@ Here is EDF Soliton - braid - writhe conceptual dynamic summary figure.
 
  [Access the animated version](https://github.com/jaimetmeloadv-bit/EDF/blob/Docs-animations/edf_soliton_braid_writhe.gif)
 
-and here [EDF Global Entropy x Local Entropy](https://github.com/jaimetmeloadv-bit/EDF/blob/Docs-animations/edf_animation.gif)
+and here is EDF Global Entropy x Local Entropy chart.
+<img src= "https://github.com/jaimetmeloadv-bit/EDF/blob/49a0d20a306f96532cecf191b3462800b83f9e42/Entropy%20rate%20.png" />
+
+[Access here the animated version ](https://github.com/jaimetmeloadv-bit/EDF/blob/Docs-animations/edf_animation.gif)
 
 ------------------------
 
