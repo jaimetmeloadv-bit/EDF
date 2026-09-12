@@ -18,7 +18,7 @@ For detailed coding and data outputs, go: [EDF-notebook-pipeline](https://github
 
 
 
-and here is EDF Global Entropy x Local Entropy chart.
+and here is EDF Global Entropy x Local Entropy chart
 
 
 
