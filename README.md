@@ -11,7 +11,7 @@ For detailed coding and data outputs, go: [EDF-notebook-pipeline](https://github
 
 EDF Soliton - braid - writhe schematic concept
 
-<img width="670" height="870" alt="edf_soliton_braid_writhe_final" src="edf_soliton_braid_writhe_final.png" />
+<img width="870" height="670" alt="edf_soliton_braid_writhe_final" src="edf_soliton_braid_writhe_final.png" />
 
 
 
@@ -25,7 +25,7 @@ EDF Global Entropy x Local Entropy chart
 
 
 
-<img width="670" height="870" alt="Entropy_rate" src="Entropy_rate.png" />
+<img width="870" height="670" alt="Entropy_rate" src="Entropy_rate.png" />
 
 
 
