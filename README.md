@@ -1,4 +1,4 @@
-This is a brief analysis of the Jupyter Notebook referred to the manuscript
+This is a summary of the foundational concepts and a brief analysis of the Jupyter Notebook, both referred to the manuscript
 
 [The Entropic Dimensional Framework](https://www.preprints.org/manuscript/202512.2652),
 Jaime Melo, December 2025 (Preprints.org)
@@ -9,9 +9,7 @@ If you will, run the 'EDF-notebook.ipynb' via nbviewer by clicking here: [notebo
 
 For detailed coding and data outputs, go: [EDF-notebook-pipeline](https://github.com/jaimetmeloadv-bit/EDF---Entropic-Dimensional-Framework-/tree/notebook-pipeline)
 
-[Entropy rate .png](https://github.com/jaimetmeloadv-bit/EDF/blob/2db063439c10220d2e7681d8bac16db1de3c99ae/Entropy%20rate%20.png)
-
-Here is EDF Soliton - braid - writhe conceptual dynamic summary figure. 
+Here is EDF Soliton - braid - writhe conceptual schematic 
 <img src="https://github.com/jaimetmeloadv-bit/EDF/blob/49d1a22f48dd2ed25ebcdf49e4449111773b348b/edf_soliton_braid_writhe_final.png" />
 
  [Access the animated version](https://github.com/jaimetmeloadv-bit/EDF/blob/Docs-animations/edf_soliton_braid_writhe.gif)
