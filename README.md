@@ -9,12 +9,12 @@ If you will, run the 'EDF-notebook.ipynb' via nbviewer by clicking here: [notebo
 
 For detailed coding and data outputs, go: [EDF-notebook-pipeline](https://github.com/jaimetmeloadv-bit/EDF---Entropic-Dimensional-Framework-/tree/notebook-pipeline)
 
-For EDF animated EDF summary,
 [Entropy rate .png](https://github.com/jaimetmeloadv-bit/EDF/blob/2db063439c10220d2e7681d8bac16db1de3c99ae/Entropy%20rate%20.png)
 
+Here is EDF Soliton - braid - writhe conceptual dynamic summary figure. 
 <img src="https://github.com/jaimetmeloadv-bit/EDF/blob/49d1a22f48dd2ed25ebcdf49e4449111773b348b/edf_soliton_braid_writhe_final.png" />
 
-[EDF - Worldline](https://github.com/jaimetmeloadv-bit/EDF/blob/Docs-animations/edf_soliton_braid_writhe.gif)
+ [Access the animated version](https://github.com/jaimetmeloadv-bit/EDF/blob/Docs-animations/edf_soliton_braid_writhe.gif)
 
 and here [EDF Global Entropy x Local Entropy](https://github.com/jaimetmeloadv-bit/EDF/blob/Docs-animations/edf_animation.gif)
 
