@@ -10,7 +10,7 @@ If you will, run the 'EDF-notebook.ipynb' via nbviewer by clicking here: [notebo
 For detailed coding and data outputs, go: [EDF-notebook-pipeline](https://github.com/jaimetmeloadv-bit/EDF---Entropic-Dimensional-Framework-/tree/notebook-pipeline)
 
 
-<img width="520" height="420" alt="edf_soliton_braid_writhe_final" src="https://github.com/jaimetmeloadv-bit/EDF/blob/bd51325ab536cc9a7f1ea41edecd0ac61a8fbdb8/edf_soliton_braid_writhe_final.png" />
+<img width="520" height="420" alt="edf_soliton_braid_writhe_final" src="edf_soliton_braid_writhe_final.png" />
 
 
 
