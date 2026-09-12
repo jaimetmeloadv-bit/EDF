@@ -13,7 +13,7 @@ Here is EDF Soliton - braid - writhe conceptual schematic
 
 
 
-<img width="520" height="420" alt="edf_soliton_braid_writhe_final" src="https://github.com/jaimetmeloadv-bit/EDF/blob/49d1a22f48dd2ed25ebcdf49e4449111773b348b/edf_soliton_braid_writhe_final.png" />
+<img width="520" height="420" alt="edf_soliton_braid_writhe_final.png" src="https://github.com/jaimetmeloadv-bit/EDF/blob/49d1a22f48dd2ed25ebcdf49e4449111773b348b/edf_soliton_braid_writhe_final.png" />
 
 
 
@@ -27,7 +27,7 @@ and here is EDF Global Entropy x Local Entropy chart.
 
 
 
-<img width="520" height="420" alt="Entropy_rate" src="https://github.com/jaimetmeloadv-bit/EDF/blob/2180147f0cabfabc7e2512c8297d773f961d5c08/Entropy_rate.png" />
+<img width="520" height="420" alt="Entropy_rate.png" src="https://github.com/jaimetmeloadv-bit/EDF/blob/2180147f0cabfabc7e2512c8297d773f961d5c08/Entropy_rate.png" />
 
 
 
