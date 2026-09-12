@@ -24,7 +24,7 @@ and here is EDF Global Entropy x Local Entropy chart
 
 
 
-<img width="520" height="420" alt="Entropy_rate.png" src="https://github.com/jaimetmeloadv-bit/EDF/blob/2180147f0cabfabc7e2512c8297d773f961d5c08/Entropy_rate.png" />
+<img width="520" height="420" alt="Entropy_rate.png" src="https://github.com/jaimetmeloadv-bit/EDF/blob/2fa89e71f685e360e05434d8f09d8d4009276a3a/Entropy_rate.png" />
 
 
 
